@@ -21,39 +21,39 @@ style in this file. You have been warned! :)
 */ 
 @font-face {
     font-family: 'Roboto-Regular';
-    src: url('font/Roboto-Regular.ttf') format('truetype');
+    src: url('https://niklasander.github.io/crespalprueba/wp-content/themes/oneline-lite/font/Roboto-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
     font-family: 'Roboto-Italic';
-    src: url('font/Roboto-Italic.ttf') format('truetype');
+    src: url('https://niklasander.github.io/crespalprueba/wp-content/themes/oneline-lite/font/Roboto-Italic.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
     font-family: 'Roboto-Bold';
-    src: url('font/Roboto-Bold.ttf') format('truetype');
+    src: url('https://niklasander.github.io/crespalprueba/wp-content/themes/oneline-lite/font/Roboto-Bold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Roboto-Light';
-    src: url('font/Roboto-Light.ttf') format('truetype');
+    src: url('https://niklasander.github.io/crespalprueba/wp-content/themes/oneline-lite/font/Roboto-Light.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
 }   
 
 @font-face {
     font-family: 'Montserrat-Bold';
-    src: url('font/Montserrat-Bold.ttf') format('truetype');
+    src: url('https://niklasander.github.io/crespalprueba/wp-content/themes/oneline-lite/font/Montserrat-Bold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
 }
 @font-face {
     font-family: 'Montserrat-Regular';
-    src: url('font/Montserrat-Regular.ttf') format('truetype');
+    src: url('https://niklasander.github.io/crespalprueba/wp-content/themes/oneline-lite/font/Montserrat-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
 }         
@@ -691,7 +691,7 @@ text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);
 transition: all 0.3s ease-in-out;
 }
 .flex-direction-nav .flex-prev{
-background: url(images/arrow_left.png) center no-repeat;
+background: url(https://niklasander.github.io/crespalprueba/wp-content/themes/oneline-lite/images/arrow_left.png) center no-repeat;
 background-size: 40% 40%;
 height:150px;
 width:80px;
@@ -700,7 +700,7 @@ left:40px;
 margin-left: -8px;
 }
 .flex-direction-nav .flex-next{
-background: url(images/arrow_right.png) center no-repeat;
+background: url(https://niklasander.github.io/crespalprueba/wp-content/themes/oneline-lite/images/arrow_right.png) center no-repeat;
 background-size: 40% 40%;
 height:150px;
 width:80px;
@@ -5502,7 +5502,7 @@ color:#D4B068;
     background-size: cover !important;
     background-repeat: no-repeat;
     height: 350px;
-    background-image:url(images/slider.jpeg);
+    background-image:url(https://niklasander.github.io/crespalprueba/wp-content/themes/oneline-lite/images/slider.jpeg);
     position: relative;
     z-index: 3;
 }
